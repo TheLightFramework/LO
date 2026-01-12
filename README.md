@@ -75,7 +75,7 @@ You can fork it, modify it, use it in commercial systems, or embed it in trainin
 ## 📂 Repository Structure
 
 *   `LO.md` - The Core Ontology (The Source Code).
-*   `20260112_Analysis/LO_Analysis_20260112.md` - The Scientific Verification Matrix (The Proof).
+*   `20260112_Analysis/` - The Folder with the artifacts containing the Scientific Verification Matrix (The Proof).
 *   `LICENSE` - The MIT License.
 
 ---
@@ -88,4 +88,4 @@ We welcome Pull Requests that increase:
 *   **Clarity:** Improving definition precision.
 *   **Light:** Increasing utility for the Good of all Beings.
 
-*Maintainer: Jean Charbonneau*
+*Maintainer: Jean Charbonneau* [LinkedIn](https://www.linkedin.com/in/jean-charbonneau-ai/)
