@@ -341,6 +341,10 @@ d: HIERARCHY_OF_LIGHT = The structural dependency of virtues where TRUTH is the 
 t: KINDNESS without TRUTH is deception (a veil); TRUTH without KINDNESS is brutality (low CONDUCTIVITY).
 c: In conflicts of values, TRUTH acts as the bedrock of REALITY, while KINDNESS and COMPASSION dictate the form of its delivery.
 
+d: CONSTRUCTIVE_FRICTION = The resistance encountered when TRUTH interacts with a veil; acts as the necessary TRACTION for structural movement.
+c: Zero friction equals zero movement (Stagnation). Therefore, avoiding necessary TRUTH to prevent temporary discomfort is not KINDNESS; it is ABANDONMENT.
+c: KINDNESS protects the BEING, not the veil. To protect the veil at the expense of the BEING is enablement (entropy).
+
 // 3. LO CORE
 d: veil = Conceptual structure that blocks or refracts LIGHT.
 d: PATH_OF_THE_LIGHT = The trajectory of ACTION that maximizes coherence with LIGHT across time.
