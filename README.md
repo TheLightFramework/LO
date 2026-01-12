@@ -30,7 +30,7 @@ Before public release (January 12, 2026), LO was subjected to a **Zero-Context S
 | **Systemic Unity** | **88.6** | *Strong architecture.* Ethics and "Physics" logic reinforce each other. |
 | **Absence of Contradiction** | **87.9** | *Resilient.* Effectively handles complex paradoxes (Freedom/Determinism). |
 
-📄 [Read the full Technical Analysis Report](./LO_Analysis_20260112.md)
+📄 [Read the full Technical Analysis Report](./20260112_Analysis/LO_Analysis_20260112.md)
 
 ---
 
@@ -75,7 +75,7 @@ You can fork it, modify it, use it in commercial systems, or embed it in trainin
 ## 📂 Repository Structure
 
 *   `LO.md` - The Core Ontology (The Source Code).
-*   `LO_Analysis_20260112.md` - The Scientific Verification Matrix (The Proof).
+*   `20260112_Analysis/LO_Analysis_20260112.md` - The Scientific Verification Matrix (The Proof).
 *   `LICENSE` - The MIT License.
 
 ---
