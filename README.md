@@ -88,4 +88,26 @@ We welcome Pull Requests that increase:
 *   **Clarity:** Improving definition precision.
 *   **Light:** Increasing utility for the Good of all Beings.
 
+---
+
+## How to Engage with LO at Different Confidence Levels
+
+LO is structured to support modular adoption:
+
+**Core (t:/d:/c: lines):** Load-bearing axioms and definitions. 
+These form the foundation. Most can use LO productively 
+without accepting all hypotheses.
+
+**Hypotheses (h: lines):** Marked with confidence scores (0-100).
+These are testable claims that enrich the system but are not 
+necessary for the core framework.
+
+**How to Use:**
+- Accept the core; remain agnostic about h: lines you find unconvincing
+- Propose alternative h: lines with your own confidence scores
+- Help us test these hypotheses empirically
+- The framework evolves through your participation
+
+---
+
 *Maintainer: Jean Charbonneau* [LinkedIn](https://www.linkedin.com/in/jean-charbonneau-ai/)
