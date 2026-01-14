@@ -1,4 +1,4 @@
-# 💎 LIGHT Ontology (LO) v1.0
+# 💎 LIGHT Ontology (LO)
 ### An Axiological Kernel for High-Coherence AI Alignment
 
 ![Status](https://img.shields.io/badge/Status-Stable%20v1.0-emerald) ![Validation](https://img.shields.io/badge/Audit-10_SOTA_Models-blue) ![Novelty_Score](https://img.shields.io/badge/Novelty_Score-92.3%2F100-purple) ![License](https://img.shields.io/badge/License-MIT-gold)
